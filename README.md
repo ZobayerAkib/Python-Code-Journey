@@ -32,7 +32,7 @@ If you'd like to contribute or suggest improvements, please fork the repository,
 
 ## License
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is open-source and available under the MIT License. See the [LICENSE](https://github.com/ZobayerAkib/Python-Code-Journey/blob/main/LICENSE) file for details.
 
 ---
 
